@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">knime</met:element>
+  <met:element form="date" name="Creation Date">18/1/2015/13:56:57 +01:00</met:element>
+  <met:element form="multiline" name="Comments">Twitter Data Analysis
+
+This workflow examines a sample of tweets from the days surrounding the scottisch referendum for independence in 2014 [1].  After reading the data from a local database, basic text processing is used to extract hashtags from the dataset and term frequencies calculated and used to build a tag cloud.  Subsequently, hashtag trending is examined over time, with a notable post election surge in the #the45 movement.   Additionally, network analysis is performed in order to look at the most influential social graph surrounding this issue.  
+
+BLOG: @KNIME Twitter Nodes https://www.knime.org/blog/knime-twitter-nodes</met:element>
+  <met:element form="text" name="Last Uploaded" read-only="true">2016-08-19 10:36:38 +0000</met:element>
+  <met:element form="text" name="Last Edited" read-only="true">2016-06-03 11:48:18 +0200</met:element>
+</met:KNIMEMetaInfo>
