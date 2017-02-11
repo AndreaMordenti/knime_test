@@ -1,0 +1,10 @@
+2015-12-09 16:26:13,999 : DEBUG : ModalContext : PartitionNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,071 : DEBUG : ModalContext : RSnippetNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,072 : DEBUG : ModalContext : RViewNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,072 : DEBUG : ModalContext : RLearnerNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,074 : DEBUG : ModalContext : RPredictorNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,074 : DEBUG : ModalContext : TableToRNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,075 : DEBUG : ModalContext : RToViewNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,076 : DEBUG : ModalContext : RToViewNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,077 : DEBUG : ModalContext : RReaderTableNodeFactory : 006001_R_example : 0 : Factory is already initialized. Nothing to do.
+2015-12-09 16:26:14,077 : DEBUG : ModalContext : R Source (Table) : R Source (Table) : 0:24 : Configure succeeded. (R Source (Table))
