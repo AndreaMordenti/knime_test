@@ -1,0 +1,32 @@
+2017-02-11 10:48:06,435 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2017-02-11 10:48:06,437 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # Welcome to the KNIME Analytics Platform v3.3.1.v201612192115 (Build December 20, 2016 #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # Copyright by KNIME GmbH, Konstanz, Germany and others.                                #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # Website: http://www.knime.org                                                         #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # E-mail: contact@knime.org                                                             #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #                                                                                       #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : # /Users/andreamordenti/Desktop/Knime/knime_test/.metadata/knime/knime.log
+2017-02-11 10:48:06,438 : INFO  : main : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # logging date=Sat Feb 11 10:48:06 CET 2017
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # java.version=1.8.0_60
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # java.vm.version=25.60-b23
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # java.vendor=Oracle Corporation
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # os.name=Mac OS X
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # os.arch=x86_64
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # number of CPUs=4
+2017-02-11 10:48:06,439 : INFO  : main : NodeLogger :  :  : # assertions=off
+2017-02-11 10:48:06,440 : INFO  : main : NodeLogger :  :  : # host=Andreas-Air.homenet.telecomitalia.it
+2017-02-11 10:48:06,447 : INFO  : main : NodeLogger :  :  : # username=andreamordenti
+2017-02-11 10:48:06,447 : INFO  : main : NodeLogger :  :  : # max mem=1820MB
+2017-02-11 10:48:06,447 : INFO  : main : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2017-02-11 10:48:06,458 : INFO  : main : NodeLogger :  :  : # ID=01-3a196954a50d55c2
+2017-02-11 10:48:06,458 : INFO  : main : NodeLogger :  :  : #########################################################################################
+2017-02-11 10:48:10,263 : DEBUG : Worker-0 : KnimeEnterpriseFileSystemPlugin :  :  : Started KNIME Enterprise Remote File System plug-in
+2017-02-11 10:48:10,288 : INFO  : Worker-0 : ExplorerMountTable :  :  : Mounted Explorer Temp Space 'knime-temp-space' - com.knime.explorer.tempspace
+2017-02-11 10:48:10,475 : DEBUG : Worker-0 : UpdateManager :  :  : Updating registered ServerSpaces every 2000 msec.
